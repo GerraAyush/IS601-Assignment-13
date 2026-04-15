@@ -1,0 +1,12 @@
+__pycache__/
+.env
+*.pyc
+.git
+.gitignore
+.github/
+qr_codes/
+
+venv/
+htmlcov/
+.coverage
+.pytest_cache/
